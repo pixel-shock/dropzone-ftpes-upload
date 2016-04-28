@@ -1,5 +1,6 @@
 {
   "name": "dropzone-ftpes-upload",
+  "dropzone_name": "FTPES Upload.dzbundle",
   "version": "1.0.1",
   "description": "A dropzone3 action to perform FTEPS Uploads",
   "main": "Gruntfile.js",

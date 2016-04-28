@@ -11,7 +11,7 @@
 # Version: 1.0.1
 # MinDropzoneVersion: 3.5
 # OptionsNIB: ExtendedLogin
-# UniqueID: 863ba638-d1ae-474b-9207-80e541529be4
+# UniqueID: a9481a37-1443-4a3c-aebe-241ec7b6ea8e
 
 # pylint: disable=missing-docstring
 

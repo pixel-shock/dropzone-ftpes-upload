@@ -3,7 +3,7 @@ module.exports = function ( grunt, options ) {
 	var uuid = require( 'node-uuid' );
 	var packageInfo = grunt.file.readJSON( './package.json' );
 	var distName = 'v' + packageInfo.version;
-	var actionFile = grunt.template.process( '<%= paths.dist %>/' + distName + '/ftpes-upload.dzbundle/action.py', {
+	var actionFile = grunt.template.process( '<%= paths.dist %>/' + distName + '/' + packageInfo.dropzone_name + '/action.py', {
 		data: {
 			paths: options.paths,
 			distName: distName

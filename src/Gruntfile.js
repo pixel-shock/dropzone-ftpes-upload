@@ -22,6 +22,7 @@ module.exports = function ( grunt ) {
 		'test',
 		'clean:dist',
 		'copy:dist',
+		'copy:gitignore_dist',
 		'regex-replace:dist'
 	] );
 

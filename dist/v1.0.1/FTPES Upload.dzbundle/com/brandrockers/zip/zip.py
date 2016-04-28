@@ -49,8 +49,6 @@ class ZIP(object):
                     item_dirname, self._full_output_name, item_relname,
                     self._zip_ignores_as_string))
 
-                print command
-
                 process = subprocess.Popen(command, shell=True, stdout=subprocess.PIPE)
                 process.wait()
 
