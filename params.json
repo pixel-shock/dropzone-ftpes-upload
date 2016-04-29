@@ -1,0 +1,6 @@
+{
+  "name": "Dropzone-ftpes-upload",
+  "tagline": "Dropzone3 FTPES Upload Action",
+  "body": "# Dropzone3 FTPES Upload Action\r\n\r\nThis is an action for [Dropzone3](https://aptonic.com/) Mac App.\r\n\r\n## Description\r\n\r\nThis action provides the possibility to upload files via to a FTP Server via explicit TLS/SSL.\r\n\r\nHow to use:\r\n\r\n* add the action to your Dropzone app\r\n* configure it as you want\r\n* drag file(s) or directories onto the icon in Dropzone and wait for the upload\r\n\r\n# Credits\r\n## Icon by\r\nName: Rick Patrick<br>\r\nURL: http://www.esxxi.me<br>\r\nhttp://www.iconarchive.com/artist/esxxi.me.html\r\n\r\n# TODO\r\n\r\n* local:\r\n    * check if the local zip file exists\r\n* remote:\r\n    * check if the remote zip file exists",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
